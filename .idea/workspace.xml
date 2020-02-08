@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94c256b3-6ef1-4869-8c91-6fc12bd2050e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UAmctCjRtm1ERsTzjptItC2Bjh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ProbVChoiceRuleTest">
+    <configuration name="ChoiceRuleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ChoiceRuleTest" />
+      <module name="Datalog2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatalogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DatalogTest" />
+      <module name="Datalog2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.PrTest" />
+      <module name="Datalog2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbVChoiceRuleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ProbVChoiceRuleTest" />
+      <module name="Datalog2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProbVChoiceRuleTest" />
+        <item itemvalue="Application.PrTest" />
+        <item itemvalue="Application.ChoiceRuleTest" />
+        <item itemvalue="Application.DatalogTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Scala/datalog3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c256b3-6ef1-4869-8c91-6fc12bd2050e" name="Default Changelist" comment="" />
+      <created>1574807856907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574807856907</updated>
+      <workItem from="1574807861810" duration="1791000" />
+      <workItem from="1574843095451" duration="126000" />
+      <workItem from="1574843461368" duration="4407000" />
+      <workItem from="1574870067852" duration="872000" />
+      <workItem from="1574926668357" duration="3136000" />
+      <workItem from="1574935347766" duration="1876000" />
+      <workItem from="1575108404121" duration="37000" />
+      <workItem from="1575108713928" duration="12777000" />
+      <workItem from="1575187438194" duration="3232000" />
+      <workItem from="1575196990802" duration="11600000" />
+      <workItem from="1575284478759" duration="3106000" />
+      <workItem from="1575881009925" duration="1622000" />
+      <workItem from="1576009761078" duration="4812000" />
+      <workItem from="1576086550729" duration="2614000" />
+      <workItem from="1576099792800" duration="2208000" />
+      <workItem from="1576136309186" duration="2767000" />
+      <workItem from="1576175396540" duration="7413000" />
+      <workItem from="1576214352305" duration="1422000" />
+      <workItem from="1576654865893" duration="1849000" />
+      <workItem from="1576661766219" duration="11000" />
+      <workItem from="1576662944946" duration="3919000" />
+      <workItem from="1576701003345" duration="1686000" />
+      <workItem from="1576828177670" duration="205000" />
+      <workItem from="1576828549614" duration="1552000" />
+      <workItem from="1576855043752" duration="6971000" />
+      <workItem from="1576905789065" duration="15464000" />
+      <workItem from="1576963516130" duration="240000" />
+      <workItem from="1577022101114" duration="3933000" />
+      <workItem from="1578263261598" duration="40000" />
+      <workItem from="1578263324214" duration="840000" />
+      <workItem from="1579636317928" duration="8005000" />
+      <workItem from="1580023845943" duration="275000" />
+      <workItem from="1580024226427" duration="598000" />
+      <workItem from="1580677626868" duration="13019000" />
+      <workItem from="1580842686091" duration="7798000" />
+      <workItem from="1580930389753" duration="5695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Notifications" timestamp="1575187453156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1575187453156" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579636385801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579636385801" />
+    <state x="349" y="71" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1579636382391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="71" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1579636382391" />
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578263270070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1578263270070" />
+    <state x="916" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579636324927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="916" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1579636324927" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1579636380552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579636380552" />
+    <state width="1493" height="462" key="GridCell.Tab.0.bottom" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state width="1493" height="462" key="GridCell.Tab.0.center" timestamp="1580941733462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580941733462" />
+    <state width="1493" height="462" key="GridCell.Tab.0.left" timestamp="1580941733462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580941733462" />
+    <state width="1493" height="462" key="GridCell.Tab.0.right" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state width="1493" height="462" key="GridCell.Tab.1.bottom" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state width="1493" height="462" key="GridCell.Tab.1.center" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state width="1493" height="462" key="GridCell.Tab.1.left" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state width="1493" height="462" key="GridCell.Tab.1.right" timestamp="1580941733463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="462" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580941733463" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1579636406955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579636406955" />
+    <state x="209" y="38" key="new project wizard" timestamp="1576661307089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576661307089" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580848772635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580848772635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Datalog.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/PrTest.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ProbVChoiceRuleTest.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ProbVChoiceRuleTest.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
